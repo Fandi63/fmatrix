@@ -1,6 +1,7 @@
 import os
 import random
 os.system("apt install figlet")
+os.system("clear")
 os.system("figlet FmatriX")
 input("Start Matrix?")
 os.system("clear")
