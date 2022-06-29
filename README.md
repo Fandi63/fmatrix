@@ -5,4 +5,4 @@ gh repo clone Fandi63/fmatrix
 cd fmatrix
 # Running the script:
 python fmatrix.py
-![file!](termux.jpg)
+![jpg!](termux.jpg)
