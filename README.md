@@ -1,5 +1,10 @@
 # fmatrix
-Install: gh repo clone fmatrix
+Matrix made with love
+# Installation:
+gh repo clone Fandi63/fmatrix             
+
+
 cd fmatrix
-Run: python fmatrix.py
-This is just for fun.Enjoy the fmatrix👍.
+#Running the script:
+python fmatrix.py
+
