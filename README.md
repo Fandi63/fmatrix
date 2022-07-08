@@ -5,4 +5,5 @@ gh repo clone Fandi63/fmatrix
 cd fmatrix
 # Running the script:
 python fmatrix.py
-![jpg!](termux.jpg)
+# Screenshot
+![jpg!](fmatrix.png)
